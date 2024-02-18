@@ -21,7 +21,7 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing158&theme=dark&langs_count=10&card_width=540&layout=compact" width="70%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Turing158&theme=radical&layout=compact" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Turing158&theme=dark&layout=compact" width="70%">
   <img src="https://streak-stats.demolab.com/?user=Turing158&theme=dark" width="70%">
 </div>
 
