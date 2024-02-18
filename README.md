@@ -1,8 +1,10 @@
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3397F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Turing158+and+Welcome+to+my+Profile!" alt="" width="90%" align="middle"/>
 <div align="center">
-   <h2><strong> Profile View </strong></h2><br>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3397F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Turing158+and+Welcome+to+my+Profile!" alt="" width="90%" align="middle"/>
+</div>
+
+<div align="center">
+   <h2><strong> 🔭 Profile View 🔭 </strong></h2><br>
 </div>
 <div align="center">
    <img src="https://profile-counter.glitch.me/Turing158/count.svg" alt="" width="20%" align="middle"/>
@@ -15,7 +17,7 @@
 </p>
 
 <div align="center">
-   <h2><strong> ⚙️ My Ability ⚙️ </strong></h2><br>
+   <h2><strong> ☕ My Ability ☕ </strong></h2><br>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing158&theme=dark&langs_count=10&card_width=540&layout=compact" width="60%">
@@ -24,7 +26,7 @@
 </div>
 
 <div align="center">
-   <h2><strong> ⚙️ My Activity ⚙️ </strong></h2><br>
+   <h2><strong> 🏅 My Contribution 🏅 </strong></h2><br>
 </div>
 
 
