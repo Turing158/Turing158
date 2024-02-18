@@ -13,7 +13,7 @@
    <h2><strong> ⚙️ My Skills ⚙️ </strong></h2><br>
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,redis,gradle,gradle,kotlin,git,github,nodejs,vue,vite,html,css,js,bootstrap,react,c,cpp,py,mysql,postman,materialui,dart,flutter,docker&perline=13" />
+  <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,redis,gradle,maven,kotlin,git,github,nodejs,vue,vite,html,css,js,bootstrap,react,c,cpp,py,mysql,postman,materialui,dart,flutter,docker&perline=13" />
 </p>
 
 <div align="center">
