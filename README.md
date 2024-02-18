@@ -20,9 +20,9 @@
    <h2><strong> ☕ My Ability ☕ </strong></h2><br>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing158&theme=dark&langs_count=10&card_width=540&layout=compact" width="60%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Turing158&theme=radical&layout=compact" width="60%">
-  <img src="https://streak-stats.demolab.com/?user=Turing158&theme=dark" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing158&theme=dark&langs_count=10&card_width=540&layout=compact" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Turing158&theme=radical&layout=compact" width="70%">
+  <img src="https://streak-stats.demolab.com/?user=Turing158&theme=dark" width="70%">
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Turing158&custom_title=Turing158's%20GitHub%20Activity&bg_color=131313&color=F1F1F1&line=626069&point=B0E0E6&area_color=E0FFFF&title_color=87CEFA&area=true" width="80%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Turing158&custom_title=Turing158's%20GitHub%20Activity&bg_color=131313&color=F1F1F1&line=626069&point=B0E0E6&area_color=E0FFFF&title_color=87CEFA&area=true" width="90%">
 </div>
 
 
