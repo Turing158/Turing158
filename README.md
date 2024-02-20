@@ -10,14 +10,14 @@
    <img src="https://profile-counter.glitch.me/Turing158/count.svg" alt="" width="20%" align="middle"/>
 </div>
 <div align="center">
-   <h2><strong> ⚙️ My Skills ⚙️ </strong></h2><br>
+   <h2><strong> ⚙️ Skills ⚙️ </strong></h2><br>
 </div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,redis,gradle,maven,kotlin,git,github,nodejs,vue,vite,html,css,js,bootstrap,react,c,cpp,py,mysql,postman,materialui,dart,flutter,docker&perline=13" />
 </p>
 
 <div align="center">
-   <h2><strong> ☕ My Ability ☕ </strong></h2><br>
+   <h2><strong> ☕ Ability ☕ </strong></h2><br>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turing158&theme=dark&langs_count=10&card_width=540&layout=compact" width="70%">
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-   <h2><strong> 🏅 My Contribution 🏅 </strong></h2><br>
+   <h2><strong> 🏅 Contribution 🏅 </strong></h2><br>
 </div>
 
 
