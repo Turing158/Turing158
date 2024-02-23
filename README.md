@@ -44,3 +44,28 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Turing158/Turing158/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+<div align="center">
+   <h2 align="center"><strong> 😶‍🌫️ Projects 😶‍🌫️ </strong></h2><br>
+   <a href="https://github.com/Turing158/starfall-springboot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=starfall-springboot" width="49%" alt=""/>
+  </a>
+  <a href="https://github.com/Turing158/SFMC" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=SFMC" width="49%" alt=""/>
+  </a>
+   <a href="https://github.com/Turing158/dorm408-LibrarySystem" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=dorm408-LibrarySystem" width="49%" alt=""/>
+  </a>
+   <a href="https://github.com/Turing158/LibrarySystem" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=LibrarySystem" width="49%" alt=""/>
+  </a>
+   <a href="https://github.com/Turing158/coffee-uniapp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=coffee-uniapp" width="49%" alt=""/>
+  </a>
+   <a href="https://github.com/Turing158/coffee-springboot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=coffee-springboot" width="49%" alt=""/>
+  </a>
+</div>
+
+
+
+
