@@ -46,8 +46,8 @@
 </div>
 <div align="center">
    <h2 align="center"><strong> 😶‍🌫️ Projects 😶‍🌫️ </strong></h2><br>
-   <a href="https://github.com/Turing158/starfall-springboot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=starfall-springboot" width="49%" alt=""/>
+   <a href="https://github.com/Turing158/starfall-springboot-web" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=starfall-springboot-web" width="49%" alt=""/>
   </a>
   <a href="https://github.com/Turing158/SFMC" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=SFMC" width="49%" alt=""/>
