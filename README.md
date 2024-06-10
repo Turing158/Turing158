@@ -71,10 +71,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=starfall-springboot" width="49%" alt=""/>
   </a>
    <a href="https://github.com/Turing158/Housekeeping-vue" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=starfall-springboot" width="49%" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=Housekeeping-vue" width="49%" alt=""/>
   </a>
    <a href="https://github.com/Turing158/Housekeeping-springboot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=starfall-springboot" width="49%" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=Housekeeping-springboot" width="49%" alt=""/>
   </a>
 </div>
 
