@@ -1,7 +1,7 @@
 
 <div align="center">
    <a href="https://turing158.github.io/" target="_blank">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3397F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Turing158+and+Welcome+to+my+Profile!" alt="" width="90%" align="middle"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3397F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Turing158+,+A+college+student!" alt="" width="90%" align="middle"/>
    </a>
 </div>
 
