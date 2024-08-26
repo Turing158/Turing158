@@ -55,8 +55,8 @@
    <a href="https://github.com/Turing158/dorm408-LibrarySystem" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=dorm408-LibrarySystem" width="49%" alt=""/>
   </a>
-   <a href="https://github.com/Turing158/LibrarySystem" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=LibrarySystem" width="49%" alt=""/>
+   <a href="https://github.com/Turing158/SFMC-qml" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=SFMC-qml" width="49%" alt=""/>
   </a>
    <a href="https://github.com/Turing158/coffee-uniapp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Turing158&theme=dark&repo=coffee-uniapp" width="49%" alt=""/>
